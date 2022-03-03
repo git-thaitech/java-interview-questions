@@ -1,8 +1,10 @@
 LXXB
 - JIT là gì?
 - javac là gì?
-- Phân định giai đoạn run time và complie time?
+- Phân định giai đoạn run time và compile time?
 - Bytecode có luôn luôn đi qua JIT không?
 - Phân biệt JIT compiler và interpreter?
 - Tại sao java có thể chạy được nên nhiều nền tảng?
 - Tại sao gọi là JIT compiler, chứ không phải JIT interpreter?
+- Native code được lưu ở đâu sau khi được biên dịch bởi JIT?
+- Trình bày 3 interface kế thừa Collection?
