@@ -8,3 +8,8 @@ LXXB
 - Tại sao gọi là JIT compiler, chứ không phải JIT interpreter?
 - Native code được lưu ở đâu sau khi được biên dịch bởi JIT?
 - Trình bày 3 interface kế thừa Collection?
+- Sự khác nhau giữa StringBuffer và StringBuilder?
+- String là mutable or immutable?
+- String pool là gì?  https://www.baeldung.com/java-string-pool
+- Quá trình interning là gì?
+- Bộ nhớ heap và bộ nhớ stack?
